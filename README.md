@@ -22,7 +22,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="right" alt="GIF-Cat" height="190" width="200" src="https://cdn.discordapp.com/attachments/1016108421541535878/1157521574665138216/gif-cat.gif?ex=6518e979&is=651797f9&hm=0f1d96846a184da025e325d2e8ed857f58a309bee2956b3351bbd6f1af40ba4f&">
-  ![Snake animation]()
 </div>
 
    ##
