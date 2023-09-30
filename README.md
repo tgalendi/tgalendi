@@ -1,6 +1,6 @@
 ### Opa, tudo bem por aí? Eu sou a Thaissa Galendi
 
-- 👩‍💻 Hoje possuo um trabalho abrangente e capacitador, participo do programa de intership do banco Bradesco
+- 👩‍💻 Hoje faço parte do programa de intership do Bradesco
 - 🌱 Cursando bacharelado em Sistemas de Informação
 - 💻 Estudando Java, Cobol e Microsoft Azure Cloud
 - 📫 Contate-me no email: thaissasoaresg@outlook.com
